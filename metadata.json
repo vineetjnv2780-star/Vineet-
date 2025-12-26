@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Calc",
+  "description": "A beautiful, intelligent calculator PWA that blends standard arithmetic with natural language AI capabilities powered by Gemini.",
+  "requestFramePermissions": []
+}
